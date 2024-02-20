@@ -6,10 +6,8 @@ For protecting and removing passwords from PDF files
 - **Protect PDF:** Set a new password to encrypt and protect a PDF file.
 - **Remove Password:** Remove the password encryption from a password-protected PDF file.
 
-## Getting Started
-
 ### Prerequisites
 
-- wxPython "pip install wxPython"
+- "pip install wxPython"
 
-- PyPDF2 "pip install wxPython PyPDF2"
+- "pip install wxPython PyPDF2"
