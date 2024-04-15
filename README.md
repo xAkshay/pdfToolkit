@@ -11,6 +11,4 @@ For protecting and removing passwords from PDF files
 
 ### Prerequisites
 
-- "pip install wxPython"
-
 - "pip install wxPython PyPDF2"
